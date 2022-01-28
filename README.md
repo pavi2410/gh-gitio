@@ -1,3 +1,7 @@
+> ⚠️ [Git.io no longer accepts new URLs](https://github.blog/changelog/2022-01-11-git-io-no-longer-accepts-new-urls/). Time to say goodbye! 
+
+---
+
 # gh-gitio
 gh extension to generate short git.io URLs for GitHub sites
 
